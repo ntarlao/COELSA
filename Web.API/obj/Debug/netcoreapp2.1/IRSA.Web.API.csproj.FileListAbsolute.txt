@@ -1,0 +1,57 @@
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.deps.json
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.runtimeconfig.json
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.runtimeconfig.dev.json
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.dll
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.pdb
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.Core.dll
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.Core.pdb
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.csprojAssemblyReference.cache
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorAssemblyInfo.cache
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorAssemblyInfo.cs
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.AssemblyInfoInputs.cache
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.AssemblyInfo.cs
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorTargetAssemblyInfo.cache
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.csproj.CopyComplete
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.dll
+C:\Grupo IRSA\Repositorio\Proyectoswc\IRSA.CHR2\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.pdb
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.deps.json
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.runtimeconfig.json
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.runtimeconfig.dev.json
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.dll
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.pdb
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.Core.dll
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.Core.pdb
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.csprojAssemblyReference.cache
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorAssemblyInfo.cache
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorAssemblyInfo.cs
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.AssemblyInfoInputs.cache
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.AssemblyInfo.cs
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorTargetAssemblyInfo.cache
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.csproj.CopyComplete
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.dll
+C:\Users\ntarlao\Desktop\Desarrollo\WebApiCore\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.pdb
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.csprojAssemblyReference.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorAssemblyInfo.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorAssemblyInfo.cs
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.AssemblyInfoInputs.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.AssemblyInfo.cs
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.dll
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.pdb
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.deps.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.runtimeconfig.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.runtimeconfig.dev.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.dll
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.API.pdb
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.Core.dll
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\bin\Debug\netcoreapp2.1\IRSA.Web.Core.pdb
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.RazorTargetAssemblyInfo.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\IRSA.Web.API\obj\Debug\netcoreapp2.1\IRSA.Web.API.csproj.CopyComplete

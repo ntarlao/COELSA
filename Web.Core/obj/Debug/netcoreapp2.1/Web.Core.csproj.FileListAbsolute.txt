@@ -1,0 +1,8 @@
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\bin\Debug\netcoreapp2.1\Web.Core.deps.json
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\bin\Debug\netcoreapp2.1\Web.Core.dll
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\bin\Debug\netcoreapp2.1\Web.Core.pdb
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\obj\Debug\netcoreapp2.1\Web.Core.csprojAssemblyReference.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\obj\Debug\netcoreapp2.1\Web.Core.AssemblyInfoInputs.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\obj\Debug\netcoreapp2.1\Web.Core.AssemblyInfo.cs
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\obj\Debug\netcoreapp2.1\Web.Core.dll
+C:\Grupo IRSA\Desarrollo\WebApiCore test\Web.Core\obj\Debug\netcoreapp2.1\Web.Core.pdb

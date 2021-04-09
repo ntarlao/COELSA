@@ -1,0 +1,3 @@
+C:\Grupo IRSA\Desarrollo\WebApiCore test\XUnitTestContacts\obj\Debug\netcoreapp3.1\XUnitTestContacts.csprojAssemblyReference.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\XUnitTestContacts\obj\Debug\netcoreapp3.1\XUnitTestContacts.AssemblyInfoInputs.cache
+C:\Grupo IRSA\Desarrollo\WebApiCore test\XUnitTestContacts\obj\Debug\netcoreapp3.1\XUnitTestContacts.AssemblyInfo.cs
